@@ -1,6 +1,6 @@
 # Had Better
 
-**Had Better** means that you should do something. If you don't do this thing, there will be a problem or danger in the future.
+**Had Better** within a sentence means that you should do something! But in this context, what the sentence is also looking to convey is that if you don't do that **thing** which is referred as **something** here, there will be a **problem or danger in the future**.
 
 > Your Sickness is getting worse. We **had better go** to the doctor today.
 
